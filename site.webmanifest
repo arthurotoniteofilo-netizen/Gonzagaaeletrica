@@ -1,11 +1,16 @@
 {
   "name": "Gonzaga Elétrica e Utilidades",
   "short_name": "Gonzaga",
-  "start_url": "index.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#111827",
   "theme_color": "#ff9100",
   "icons": [
+    {
+      "src": "android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
     {
       "src": "android-chrome-512x512.png",
       "sizes": "512x512",
